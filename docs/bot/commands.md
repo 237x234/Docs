@@ -227,7 +227,7 @@ Gives an image of Holo from the manga and anime "Spice & Wolf". ([Example](https
 > 
 > **Usage**:
 >
-> - `p.Hug <@user ...>`
+> - `.Hug <@user ...>`
 
 Lets you hug one or multiple mentioned user.
 
@@ -243,7 +243,7 @@ Lets you hug one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Kiss <@user ...>`
+> - `.Kiss <@user ...>`
 
 Lets you kiss one or multiple mentioned user.
 
@@ -271,7 +271,7 @@ Gives an image of a kitsune (fox girl). ([Example](https://purrbot.site/img/sfw/
 >
 > **Usage**:
 >
-> - `p.Lick <@user ...>`
+> - `.Lick <@user ...>`
 
 Lets you lick one or multiple mentioned user.
 
@@ -286,8 +286,8 @@ Lets you lick one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Neko`
-> - `p.Neko [--gif]`
+> - `.Neko`
+> - `.Neko [--gif]`
 
 Gives an image of a Neko (cat girl). ([Example](https://purrbot.site/img/sfw/neko/img/neko_001.jpg))  
 `[--gif]` returns a gif of a Neko.
@@ -351,8 +351,8 @@ Gives a random image of the divine messenger Senko-San ([Example](https://purrbo
 > 
 > **Usage**:
 >
-> - `p.Ship <@user>`
-> - `p.Ship <@user1> [@user2]`
+> - `.Ship <@user>`
+> - `.Ship <@user1> [@user2]`
 
 Will make the bot show how likely you match with someone else.  
 You can optionally mention a second user to instead ship those two with each other.
@@ -366,7 +366,7 @@ You can optionally mention a second user to instead ship those two with each oth
 > 
 > **Usage**:
 >
-> - `p.Slap <@user ...>`
+> - `.Slap <@user ...>`
 
 Lets you slap one or multiple mentioned user.
 
@@ -428,8 +428,8 @@ Lets you tickle one or multiple users.
 >
 > **Usage**:
 >
-> - `p.Lang [set <language>]`
-> - `p.Lang [reset]`
+> - `.Lang [set <language>]`
+> - `.Lang [reset]`
 
 Lets you change or reset the current language set in a Discord.  
 A list of currently worked on (and completed) translations can be found on https://lang.purrbot.site.
@@ -443,8 +443,8 @@ A list of currently worked on (and completed) translations can be found on https
 > 
 > **Usage**:
 >
-> - `p.Prefix <set <prefix>>`
-> - `p.Prefix <reset>`
+> - `.Prefix <set <prefix>>`
+> - `.Prefix <reset>`
 
 Lets you change or reset the bots prefix for your guild. (Default one is `p.`)
 
@@ -552,8 +552,8 @@ Gives you information on how you can donate and what awesome people donated so f
 > 
 > **Arguments**:
 >
-> - `p.Emote <:emote:>`
-> - `p.Emote <--search>`
+> - `.Emote <:emote:>`
+> - `.Emote <--search>`
 
 Gives information about a provided emote.  
 If the `--search` argument is used will the bot check the past 100 messages for any emotes and return all it can find.  
@@ -572,7 +572,7 @@ This will **not** return unicode emojis!
 > 
 > **Usage**:
 >
-> - `p.Guild`
+> - `.Guild`
 
 Provides basic information about the guild.
 
@@ -588,9 +588,9 @@ Provides basic information about the guild.
 > 
 > **Usage**:
 >
-> - `p.Help`
-> - `p.Help [command]`
-> - `p.Help [cat:<category>]`
+> - `.Help`
+> - `.Help [command]`
+> - `.Help [cat:<category>]`
 
 Lists all available commands, or gives information about one, when specified.  
 You can also use `cat:<category>` to list all commands of the specified category. `<category>` can also be a translated category, if your server [uses a different language](#language).
