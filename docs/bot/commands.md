@@ -85,7 +85,7 @@ The default prefix is `p.` but can be changed with the [prefix command](#prefix)
 >
 > **Usage**:
 >
-> - `p.Bite <@user ...>`
+> - `.Bite <@user ...>`
 
 Lets you bite one or multiple mentioned users.
 
@@ -100,7 +100,7 @@ Lets you bite one or multiple mentioned users.
 >
 > **Usage**:
 >
-> - `p.Blush`
+> - `.Blush`
 
 Lets you blush.
 
@@ -116,7 +116,7 @@ Lets you blush.
 >
 > **Usage**:
 >
-> - `p.Cry`
+> - `.Cry`
 
 Lets you cry. :cry:
 
@@ -134,7 +134,7 @@ Lets you cry. :cry:
 > 
 > **Usage**:
 >
-> - `p.Cuddle <@user ...>`
+> - `.Cuddle <@user ...>`
 
 Lets you cuddle one or multiple mentioned users.
 
@@ -149,7 +149,7 @@ Lets you cuddle one or multiple mentioned users.
 >
 > **Usage**:
 >
-> - `p.Dance`
+> - `.Dance`
 
 Gives a gif of someone dancing. ~(^-^)~
 
@@ -180,7 +180,7 @@ Gives an image of the cute Pokémon Eevee. ([Example](https://purrbot.site/img/s
 > 
 > **Usage**:
 >
-> - `p.Feed <@user>`
+> - `.Feed <@user>`
 
 Lets you feed someone.  
 The asked user can either accept or deny the request.
@@ -196,7 +196,7 @@ The asked user can either accept or deny the request.
 >
 > **Usage**:
 >
-> - `p.Fluff <@user>`
+> - `.Fluff <@user>`
 
 Lets you ask someone if you can fluff their tail.  
 The asked user can either accept or deny the request.
@@ -212,7 +212,7 @@ The asked user can either accept or deny the request.
 > 
 > **Usage**:
 >
-> - `p.Holo`
+> - `.Holo`
 
 Gives an image of Holo from the manga and anime "Spice & Wolf". ([Example](https://purrbot.site/img/sfw/holo/img/holo_001.jpg))
 
@@ -227,7 +227,7 @@ Gives an image of Holo from the manga and anime "Spice & Wolf". ([Example](https
 > 
 > **Usage**:
 >
-> - `p.Hug <@user ...>`
+> - `.Hug <@user ...>`
 
 Lets you hug one or multiple mentioned user.
 
@@ -243,7 +243,7 @@ Lets you hug one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Kiss <@user ...>`
+> - `.Kiss <@user ...>`
 
 Lets you kiss one or multiple mentioned user.
 
@@ -258,7 +258,7 @@ Lets you kiss one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Kitsune`
+> - `.Kitsune`
 
 Gives an image of a kitsune (fox girl). ([Example](https://purrbot.site/img/sfw/kitsune/img/kitsune_001.jpg))
 
@@ -271,7 +271,7 @@ Gives an image of a kitsune (fox girl). ([Example](https://purrbot.site/img/sfw/
 >
 > **Usage**:
 >
-> - `p.Lick <@user ...>`
+> - `.Lick <@user ...>`
 
 Lets you lick one or multiple mentioned user.
 
@@ -286,8 +286,8 @@ Lets you lick one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Neko`
-> - `p.Neko [--gif]`
+> - `.Neko`
+> - `.Neko [--gif]`
 
 Gives an image of a Neko (cat girl). ([Example](https://purrbot.site/img/sfw/neko/img/neko_001.jpg))  
 `[--gif]` returns a gif of a Neko.
@@ -304,7 +304,7 @@ Gives an image of a Neko (cat girl). ([Example](https://purrbot.site/img/sfw/nek
 > 
 > **Usage**:
 >
-> - `p.Pat <@user ...>`
+> - `.Pat <@user ...>`
 
 Lets you pat one or multiple mentioned user.
 
@@ -319,7 +319,7 @@ Lets you pat one or multiple mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Poke <@user ...>`
+> - `.Poke <@user ...>`
 
 Lets you poke one or multiple mentioned user.
 
@@ -334,7 +334,7 @@ Lets you poke one or multiple mentioned user.
 >
 > **Usage**:
 >
-> - `p.Senko`
+> - `.Senko`
 
 Gives a random image of the divine messenger Senko-San ([Example](https://purrbot.site/img/sfw/senko/img/senko_001.jpg))
 
@@ -351,8 +351,8 @@ Gives a random image of the divine messenger Senko-San ([Example](https://purrbo
 > 
 > **Usage**:
 >
-> - `p.Ship <@user>`
-> - `p.Ship <@user1> [@user2]`
+> - `.Ship <@user>`
+> - `.Ship <@user1> [@user2]`
 
 Will make the bot show how likely you match with someone else.  
 You can optionally mention a second user to instead ship those two with each other.
@@ -366,7 +366,7 @@ You can optionally mention a second user to instead ship those two with each oth
 > 
 > **Usage**:
 >
-> - `p.Slap <@user ...>`
+> - `.Slap <@user ...>`
 
 Lets you slap one or multiple mentioned user.
 
@@ -382,7 +382,7 @@ Lets you slap one or multiple mentioned user.
 >
 > **Usage**:
 >
-> - `p.Smile`
+> - `.Smile`
 
 Lets you Smile. :)
 
@@ -398,7 +398,7 @@ Lets you Smile. :)
 >
 > **Usage**:
 >
-> - `p.Tail`
+> - `.Tail`
 
 Lets you wag your tail (in excitement hopefully).
 
@@ -411,7 +411,7 @@ Lets you wag your tail (in excitement hopefully).
 > 
 > **Usage**:
 >
-> - `p.Tickle <@user ...>`
+> - `.Tickle <@user ...>`
 
 Lets you tickle one or multiple users.
 
@@ -428,8 +428,8 @@ Lets you tickle one or multiple users.
 >
 > **Usage**:
 >
-> - `p.Lang [set <language>]`
-> - `p.Lang [reset]`
+> - `.Lang [set <language>]`
+> - `.Lang [reset]`
 
 Lets you change or reset the current language set in a Discord.  
 A list of currently worked on (and completed) translations can be found on https://lang.purrbot.site.
@@ -443,8 +443,8 @@ A list of currently worked on (and completed) translations can be found on https
 > 
 > **Usage**:
 >
-> - `p.Prefix <set <prefix>>`
-> - `p.Prefix <reset>`
+> - `.Prefix <set <prefix>>`
+> - `.Prefix <reset>`
 
 Lets you change or reset the bots prefix for your guild. (Default one is `p.`)
 
@@ -537,7 +537,7 @@ Providing no arguments will show what the current settings are.
 > 
 > **Arguments**:
 >
-> - `p.Donate`
+> - `.Donate`
 
 Gives you information on how you can donate and what awesome people donated so far :heart:.
 
@@ -552,8 +552,8 @@ Gives you information on how you can donate and what awesome people donated so f
 > 
 > **Arguments**:
 >
-> - `p.Emote <:emote:>`
-> - `p.Emote <--search>`
+> - `.Emote <:emote:>`
+> - `.Emote <--search>`
 
 Gives information about a provided emote.  
 If the `--search` argument is used will the bot check the past 100 messages for any emotes and return all it can find.  
@@ -572,7 +572,7 @@ This will **not** return unicode emojis!
 > 
 > **Usage**:
 >
-> - `p.Guild`
+> - `.Guild`
 
 Provides basic information about the guild.
 
@@ -588,9 +588,9 @@ Provides basic information about the guild.
 > 
 > **Usage**:
 >
-> - `p.Help`
-> - `p.Help [command]`
-> - `p.Help [cat:<category>]`
+> - `.Help`
+> - `.Help [command]`
+> - `.Help [cat:<category>]`
 
 Lists all available commands, or gives information about one, when specified.  
 You can also use `cat:<category>` to list all commands of the specified category. `<category>` can also be a translated category, if your server [uses a different language](#language).
@@ -607,8 +607,8 @@ You can also use `cat:<category>` to list all commands of the specified category
 > 
 > **Usage**:
 >
-> - `p.Info`
-> - `p.Info [--dm]`
+> - `.Info`
+> - `.Info [--dm]`
 
 Provides basic information about the bot.  
 Use `--dm` to send the info to your DMs.
@@ -624,8 +624,8 @@ Use `--dm` to send the info to your DMs.
 > 
 > **Usage**:
 >
-> - `p.Invite`
-> - `p.Invite [--dm]`
+> - `.Invite`
+> - `.Invite [--dm]`
 
 Sends you links to invite the bot, or join the support-Discord.  
 Use `--dm` to send the links to your DMs.
@@ -639,7 +639,7 @@ Use `--dm` to send the links to your DMs.
 > 
 > **Usage**:
 >
-> - `p.Ping`
+> - `.Ping`
 
 Returns the delay of editing the message, the delay to the API and the WebSocket delay in milliseconds.
 
@@ -652,8 +652,8 @@ Returns the delay of editing the message, the delay to the API and the WebSocket
 > 
 > **Usage**:
 >
-> - `p.Quote <MessageID>`
-> - `p.Quote <MessageID> [#channel]`
+> - `.Quote <MessageID>`
+> - `.Quote <MessageID> [#channel]`
 
 Quotes a message from a user, using the [ImageAPI](/api#quote) to generate an image looking like a Discord-message.  
 `<MessageID>` is the ID of the message that should be quoted.  
@@ -673,7 +673,7 @@ The bot won't quote messages from NSFW channels when the channel you're using th
 >
 > **Usage**:
 >
-> - `p.Shards`
+> - `.Shards`
 
 Lists all shards, their status, ping and Guild count.
 
@@ -690,7 +690,7 @@ Lists all shards, their status, ping and Guild count.
 > 
 > **Usage**:
 >
-> - `p.Stats`
+> - `.Stats`
 
 Shows statistics of the bot.
 
@@ -707,7 +707,7 @@ Shows statistics of the bot.
 > 
 > **Usage**:
 >
-> - `p.User [@user]`
+> - `.User [@user]`
 
 Shows information about yourself or a mentioned user.
 
@@ -726,7 +726,7 @@ Shows information about yourself or a mentioned user.
 > 
 > **Usage**:
 >
-> - `p.Blowjob <@user>`
+> - `.Blowjob <@user>`
 
 **This command can only be run in NSFW-labeled channels!**
 
@@ -744,7 +744,7 @@ The user can accept or deny the request.
 > 
 > **Usage**:
 >
-> - `p.Cum`
+> - `.Cum`
 
 **This command can only be run in NSFW-labeled channels!**
 
@@ -761,11 +761,11 @@ Returns a random gif of someone cumming.
 > 
 > **Usage**:
 >
-> - `p.Fuck <@user>`
-> - `p.Fuck <@user> --anal`
-> - `p.Fuck <@user> --normal`
-> - `p.Fuck <@user> --yaoi`
-> - `p.Fuck <@user> --yuri`
+> - `.Fuck <@user>`
+> - `.Fuck <@user> --anal`
+> - `.Fuck <@user> --normal`
+> - `.Fuck <@user> --yaoi`
+> - `.Fuck <@user> --yuri`
 
 **This command can only be run in NSFW-labeled channels!**
 
@@ -784,8 +784,8 @@ The user can accept or deny the request.
 > 
 > **Usage**:
 >
-> - `p.Lewd`
-> - `p.Lewd --gif`
+> - `.Lewd`
+> - `.Lewd --gif`
 
 **This command can only be run in NSFW-labeled channels!**
 
@@ -804,7 +804,7 @@ Gives an image of a lewd Neko.
 >
 > **Usage**:
 >
-> - `p.Pussylick <@user>`
+> - `.Pussylick <@user>`
 
 **This command can only be run in NSFW-Labeled channels!**
 
@@ -822,7 +822,7 @@ The user can accept or deny the request.
 > 
 > **Usage**:
 >
-> - `p.Solo`
+> - `.Solo`
 
 **This command can only be run in NSFW-labeled channels!**
 
@@ -839,9 +839,9 @@ Gives a gif of a girl *playing* with herself.
 >
 > **Usage**:
 >
-> - `p.Threesome <@user1> <@user2>`
-> - `p.Threesome <@user1> <@user2> --fff`
-> - `p.Threesome <@user1> <@user2> --mmf`
+> - `.Threesome <@user1> <@user2>`
+> - `.Threesome <@user1> <@user2> --fff`
+> - `.Threesome <@user1> <@user2> --mmf`
 
 **This command can only be run in NSFW-labeled channels!**
 
